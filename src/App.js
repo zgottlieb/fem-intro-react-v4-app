@@ -76,7 +76,7 @@ class App extends React.Component {
           <Link to="/">Adopt Me!</Link>
           <Link to="/search-params">
             <span aria-label="search" role="img">
-              *
+              &#128269;
             </span>
           </Link>
         </header>
